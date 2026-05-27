@@ -8,7 +8,7 @@ Wall E peut :
 - Se déplacer
 - Ouvrir et fermer sa trappe
 - Déplacer ses bras d'avant en arrière
-- Ecran intéractif
+- Afficher des informations sur son écran
 
 ## Matériel : 
 
@@ -37,7 +37,7 @@ Wall E peut :
 
 Le projet repose sur sa composante modulable.
 En effet, les différentes parties sont fixés entre elles grâce à des vis M4, permettant de démonter et modifier certaines parties facilement.
-La face avant contient la porte et se visse au sol et plaques droite/gauche.
-La seule exception repose pour les parties en dessous du robot et la tête, celles-ci sont fixées à l'aide de colles (élément non destiné à être changés).
+La face avant contient la porte et se visse au sol et les plaques droite/gauche se vissent à la face avant/arrière.
+La seule exception repose pour les parties en dessous du robot et la tête, celles-ci sont fixées à l'aide de colle forte (élément non destiné à être changés).
 
 Ainsi, cette approche permet la modification et le dépannage facile en permettant de démonter les plaques du chassis centrales contenant les différents composants.
